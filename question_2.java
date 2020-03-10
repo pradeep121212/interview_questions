@@ -4,7 +4,8 @@ Interview Question #2:
 
 Construct an algorithm to check whether two words (or phrases) are anagrams or not!
 
-"An anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once"
+"An anagram is a word or phrase formed by rearranging the letters of a different word or phrase,
+typically using all the original letters exactly once"
 
 */
 

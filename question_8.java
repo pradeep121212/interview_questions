@@ -12,10 +12,11 @@ public class Main
 static class Queue  
 {  
     static Stack<Integer> s1 = new Stack<Integer>();  
-    static Stack<Integer> s2 = new Stack<Integer>();  
+    
   
     static void enQueue(int x)  
     {  
+       Stack<Integer> s2 = new Stack<Integer>();  
 
         while (!s1.isEmpty()) 
         {  
